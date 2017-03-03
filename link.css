@@ -1,0 +1,12 @@
+.linkone
+{
+    color: black;
+}
+a:visited
+{
+    color: blue;
+}
+a:hover
+{
+    color: aqua;
+}
